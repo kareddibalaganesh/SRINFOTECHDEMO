@@ -5,3 +5,10 @@ public class SRINFOTECH {
     System.out.println("SRIONFOCTEH Solution PVT LTD!");
   }
 }
+
+
+public class SRINFOTECH SOLUTION RRIVATE LIMITED {
+  public static void main(String[] args) {
+    System.out.println("SRIONFOCTEH Solution PRIVATE LIMITED!");
+  }
+}
